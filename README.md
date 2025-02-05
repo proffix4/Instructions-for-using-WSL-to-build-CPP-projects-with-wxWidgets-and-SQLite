@@ -69,7 +69,7 @@ sudo ldconfig
 rm wxWidgets-3.2.6.tar.bz2
 ```
 
-## 4. Сборка проекта на C++ с wxWidgets и SQLite
+## 4. Сборка тестового проекта на C++ с wxWidgets и SQLite
 Создайте файл `main.cpp`:
 ```cpp
 #include <wx/wx.h>
